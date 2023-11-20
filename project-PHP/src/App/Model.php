@@ -2,7 +2,7 @@
 namespace vendor\Nathan\Model;
 use vendor\Nathan\Model\config;
 
-class Projet  extends PDO {
+class Projet  {
     protected $pdo;
 
     public function __construct($pdo) {
@@ -36,5 +36,6 @@ class Projet  extends PDO {
         $stmt->execute([$projetId]);
         return $stmt->fetch() ? true : false;
     }
+    
 }
 ?>
