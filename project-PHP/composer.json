@@ -1,0 +1,16 @@
+{
+    "name": "nathan/project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Nathan\\Project\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "astrokke",
+            "email": "Nathan@musielak.net"
+        }
+    ],
+    "require": {}
+}
