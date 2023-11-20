@@ -1,12 +1,14 @@
 <?php
+namespace vendor\Nathan\config;
+
 class Config
 {
-    const DBNAME = "formation";
+    const DBNAME = "project-manager";
     const DBHOST = 'localhost';
-    const DBUSER = 'formation';
-    const DBPWD = 'formation';
-    const ENTITY = 'Entité\\';
-    const CONTROLLER = 'Keha\Test\Controller\\';
+    const DBUSER = 'root';
+    const DBPWD = '';
+    const ENTITY = 'ventor\nathan\entité';
+    const CONTROLLER = '';
     const DEFAULT_CONTROLLER = 'IndexController';
     const DEFAULT_METHOD = 'index';
 }

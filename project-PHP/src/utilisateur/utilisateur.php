@@ -1,5 +1,7 @@
 <?php
-include 'config.php';
+namespace vendor\nathan\utilisateur;
+
+use vendor\nathan\config;
 
 class Utilisateur {
     protected $pdo;
