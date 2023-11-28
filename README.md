@@ -13,4 +13,4 @@ En priorité:
     réaliser un MCD puis la BDD correspondante
     Réaliser la partie back-end et front end du site qui permet de respecter les règles de gestion
 
-realisée en colaboratoin avec 
+realisée en colaboration avec   zKittyGB Tontico Thiblt
