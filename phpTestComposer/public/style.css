@@ -1,0 +1,40 @@
+h1 {
+    font-size: 20px !important;
+    margin: 0px !important;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+}
+
+body {
+    background-color: #1e1f21 !important;
+    height: 100vh !important;
+} 
+
+header {
+    height: 10% !important;
+}
+.bgdark{
+    background-color: #212529 !important;
+}
+
+.buttonLD {
+    background-color: #4a5766;
+    
+    padding: 5px 10px;
+    text-align: center;
+    color: white;
+    /* border-radius: 0; */
+    border-color:  #29323c;
+    display: block;
+    margin: 15px;
+    
+  }
+
+  .buttonLD:hover {
+    background-color: #495058
+  }
+
+a{
+    text-decoration: none !important;
+}
+
